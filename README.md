@@ -1,4 +1,4 @@
-# bettings-history
+# betting-history
 
 ## Project setup
 ```
